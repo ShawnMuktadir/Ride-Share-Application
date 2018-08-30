@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "327438515220",
+    "firebase_url": "https://ride-sharing-app-1dbff.firebaseio.com",
+    "project_id": "ride-sharing-app-1dbff",
+    "storage_bucket": "ride-sharing-app-1dbff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327438515220:android:5b0ebc59e83cee87",
+        "android_client_info": {
+          "package_name": "com.example.asifsabir.rideshareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327438515220-tgvtiv7te8hrlt6e3bbn066niga15l65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asifsabir.rideshareapp",
+            "certificate_hash": "c3f443a16352c4812464e382e08c47ab0d0c3f4b"
+          }
+        },
+        {
+          "client_id": "327438515220-crciu0o2ivcgv57bl5huqnjnkb8kfvcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbiWw7dJybj1kX-uzLdi6bwAD5ybkE5es"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327438515220-crciu0o2ivcgv57bl5huqnjnkb8kfvcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

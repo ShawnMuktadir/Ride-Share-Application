@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Ride Share App</string>
+    <string-array name="bank_names_array">
+        <item>Please select Your Bank</item>
+        <item>AB Bank Ltd</item>
+        <item>Agrani Bank Limited</item>
+        <item>Al-Arafah Islami Bank Limited</item>
+        <item>Bangladesh Commerce Bank Limited</item>
+        <item>Bangladesh Development Bank Limited</item>
+        <item>Bangladesh Krishi Bank</item>
+        <item>Bank Al-Falah Limited</item>
+        <item>Bank Asia Limited</item>
+        <item>BASIC Bank Limited</item>
+        <item>BRAC Bank Limited</item>
+        <item>Citibank N.A</item>
+        <item>Commercial Bank of Ceylon Limited</item>
+        <item>Dhaka Bank Limited</item>
+        <item>Dutch-Bangla Bank Limited</item>
+        <item>Eastern Bank Limited</item>
+        <item>EXIM Bank Limited</item>
+        <item>First Security Islami Bank Limited</item>
+        <item>Habib Bank Ltd.</item>
+        <item>ICB Islamic Bank Ltd.</item>
+        <item>IFIC Bank Limited</item>
+        <item>Islami Bank Bangladesh Ltd</item>
+        <item>Jamuna Bank Ltd</item>
+        <item>Janata Bank Limited</item>
+        <item>Meghna Bank Limited</item>
+        <item>Mercantile Bank Limited</item>
+        <item>Midland Bank Limited</item>
+        <item>Mutual Trust Bank Limited</item>
+        <item>National Bank Limited</item>
+        <item>NRB Commercial Bank Limited</item>
+        <item>One Bank Limited</item>
+        <item>Premier Bank Limited</item>
+        <item>Prime Bank Ltd</item>
+        <item>Pubali Bank Limited</item>
+        <item>Rajshahi Krishi Unnayan Bank</item>
+        <item>Rupali Bank Limited</item>
+        <item>Shahjalal Bank Limited</item>
+        <item>Shimanto Bank Limited</item>
+        <item>Social Islami Bank Ltd.</item>
+        <item>Sonali Bank Limited</item>
+        <item>Southeast Bank Limited</item>
+        <item>Standard Bank Limited</item>
+        <item>Standard Chartered Bank</item>
+        <item>The City Bank Ltd.</item>
+        <item>Trust Bank Limited</item>
+        <item>Union Bank Limited</item>
+        <item>United Commercial Bank Limited</item>
+        <item>Uttara Bank Limited</item>
+        <item>Woori Bank</item>
+
+    </string-array>
+    <string-array name="acc_type_array">
+        <item>Plese select account type</item>
+        <item>Debit Account</item>
+        <item>Credit Credit</item>
+    </string-array>
+</resources>
